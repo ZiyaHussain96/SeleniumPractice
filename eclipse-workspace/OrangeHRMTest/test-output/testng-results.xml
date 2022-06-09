@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-10T10:29:53 IST" name="Default suite" finished-at="2022-03-10T10:30:17 IST" duration-ms="23705">
+    <groups>
+    </groups>
+    <test started-at="2022-03-10T10:29:53 IST" name="Default test" finished-at="2022-03-10T10:30:17 IST" duration-ms="23705">
+      <class name="com.hrm.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@3059cbc]" started-at="2022-03-10T10:29:53 IST" name="setUp" finished-at="2022-03-10T10:30:01 IST" duration-ms="7621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginLogoTest()[pri:1, instance:com.hrm.qa.testcases.LoginPageTest@3059cbc]" started-at="2022-03-10T10:30:01 IST" name="loginLogoTest" finished-at="2022-03-10T10:30:01 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@3059cbc]" started-at="2022-03-10T10:30:01 IST" name="tearDown" finished-at="2022-03-10T10:30:01 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@3059cbc]" started-at="2022-03-10T10:30:01 IST" name="setUp" finished-at="2022-03-10T10:30:06 IST" duration-ms="5013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTitle()[pri:2, instance:com.hrm.qa.testcases.LoginPageTest@3059cbc]" started-at="2022-03-10T10:30:06 IST" name="loginTitle" finished-at="2022-03-10T10:30:06 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@3059cbc]" started-at="2022-03-10T10:30:06 IST" name="tearDown" finished-at="2022-03-10T10:30:06 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@3059cbc]" started-at="2022-03-10T10:30:06 IST" name="setUp" finished-at="2022-03-10T10:30:11 IST" duration-ms="4849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:3, instance:com.hrm.qa.testcases.LoginPageTest@3059cbc]" started-at="2022-03-10T10:30:11 IST" name="loginTest" finished-at="2022-03-10T10:30:17 IST" duration-ms="5849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@3059cbc]" started-at="2022-03-10T10:30:17 IST" name="tearDown" finished-at="2022-03-10T10:30:17 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
